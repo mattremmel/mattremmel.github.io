@@ -100,7 +100,7 @@ content:
           - Scaled infrastructure and real-time systems with Kafka, Cassandra, PostgreSQL, and Kubernetes, supporting high-throughput payments and accelerating adoption by partner banks and platforms.
 
       - layout: left
-        title: E-gineering, LLC | (Finishline, JD Sports)
+        title: E-gineering, LLC
         link: https://e-gineering.com
         link_text: e-gineering.com
         sub_title: Senior Software Engineer
@@ -112,7 +112,7 @@ content:
           - Strengthened observability and system reliability through improved telemetry and alerting infrastructure.
 
       - layout: left
-        title: E-gineering, LLC | (Finishline, JD Sports)
+        title: E-gineering, LLC
         link: https://e-gineering.com
         link_text: e-gineering.com
         sub_title: iOS Engineer
