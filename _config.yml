@@ -22,19 +22,18 @@ github_username: mattremmel
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: mattremmel
-linkedin_username: mattremmel
+linkedin_username: matthewremmel
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: TODO
+# youtube_username: TODO
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# TODO: ?
-additional_links:
-  - title: itsgoingto.be
-    icon: fas fa-globe
-    url: https://www.itsgoingto.be
+# additional_links:
+#   - title: itsgoingto.be
+#     icon: fas fa-globe
+#     url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
