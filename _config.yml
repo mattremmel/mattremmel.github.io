@@ -80,9 +80,11 @@ content:
         sub_title: Principal Software & Security Consultant
         caption: May 2023 - Present
         description: | # this will include new lines to allow paragraphs
-          - Provided strategic technical guidance on architecture, security posture, and product scalability.
-          - Delivered end-to-end software solutions—including backend systems, web applications, and APIs—using modern frameworks and cloud platforms.
-          - Conducted security audits and risk assessments across infrastructure, codebases, and vendors; translated findings into actionable policies and procedures aligned with SOC 2, ISO 27001, and PCI DSS.
+          Provided strategic technical guidance on architecture, security posture, and product scalability.
+
+          Delivered end-to-end software solutions—including backend systems, web applications, and APIs—using modern frameworks and cloud platforms.
+
+          Conducted security audits and risk assessments across infrastructure, codebases, and vendors; translated findings into actionable policies and procedures aligned with SOC 2, ISO 27001, and PCI DSS.
 
       - layout: left
         title: Tesouro HQ, Inc
@@ -91,10 +93,13 @@ content:
         sub_title: Founding Engineer
         caption: Aug 2021 - Jun 2025
         description: | # this will include new lines to allow paragraphs
-          - Served as the founding engineer and technical advisor, collaborating with founders, vendors, and financial institutions to lead initial engineering effort, and to shape product direction and go-to-market strategy.
-          - Spearheaded backend development in C\#/ .NET, orchestrating distributed microservices on AWS to power merchant onboarding, transaction processing, event-driven billing/funding, and compliance workflows.
-          - Led architecture and implementation efforts that enabled SOC 2 Type II and PCI DSS Level 1 certification, building a secure, auditable foundation for sensitive payment data.
-          - Scaled infrastructure and real-time systems with Kafka, Cassandra, PostgreSQL, and Kubernetes, supporting high-throughput payments and accelerating adoption by partner banks and platforms.
+          Served as the founding engineer and technical advisor, collaborating with founders, vendors, and financial institutions to lead initial engineering effort, and to shape product direction and go-to-market strategy.
+
+          Spearheaded backend development in C\#/ .NET, orchestrating distributed microservices on AWS to power merchant onboarding, transaction processing, event-driven billing/funding, and compliance workflows.
+
+          Led architecture and implementation efforts that enabled SOC 2 Type II and PCI DSS Level 1 certification, building a secure, auditable foundation for sensitive payment data.
+
+          Scaled infrastructure and real-time systems with Kafka, Cassandra, PostgreSQL, and Kubernetes, supporting high-throughput payments and accelerating adoption by partner banks and platforms.
 
       - layout: left
         title: E-gineering, LLC
@@ -103,10 +108,13 @@ content:
         sub_title: Senior Software Engineer
         caption: Jul 2019 - Feb 2022
         description: | # this will include new lines to allow paragraphs
-          - Developed and maintained microservices for a high-volume customer loyalty platform using Java and Kotlin on GCP with Kubernetes.
-          - Built scalable, event-driven systems with Kafka, supporting asynchronous service interactions and real-time reward processing for millions of users.
-          - Collaborated with cross-functional teams to deliver new loyalty features and enhance user experience.
-          - Strengthened observability and system reliability through improved telemetry and alerting infrastructure.
+          Developed and maintained microservices for a high-volume customer loyalty platform using Java and Kotlin on GCP with Kubernetes.
+
+          Built scalable, event-driven systems with Kafka, supporting asynchronous service interactions and real-time reward processing for millions of users.
+
+          Collaborated with cross-functional teams to deliver new loyalty features and enhance user experience.
+
+          Strengthened observability and system reliability through improved telemetry and alerting infrastructure.
 
       - layout: left
         title: E-gineering, LLC
@@ -115,8 +123,9 @@ content:
         sub_title: iOS Engineer
         caption: May 2015 - Jul 2019
         description: | # this will include new lines to allow paragraphs
-          - Designed and built internal iOS applications from the ground up, aligning with business goals and meeting HIPAA and FDA compliance standards.
-          - Modernized legacy Objective-C apps by migrating key functionality to Swift, improving performance, code clarity, automated testing, and long-term maintainability.
+          Designed and built internal iOS applications from the ground up, aligning with business goals and meeting HIPAA and FDA compliance standards.
+
+          Modernized legacy Objective-C apps by migrating key functionality to Swift, improving performance, code clarity, automated testing, and long-term maintainability.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
