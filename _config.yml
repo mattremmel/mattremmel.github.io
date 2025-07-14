@@ -128,13 +128,15 @@ content:
         title: Indiana University
         caption: 2016 - 2017
         sub_title: Master of Science in Computer Science, Information Security
-        # description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
+          Focused on information security throughout the program, including coursework in secure systems, cryptography, and network defense. Notable projects included a semester-long hands-on study of IoT device vulnerabilities, analyzing and ethically exploiting consumer hardware purchased online. Represented Indiana University at a red team/blue team cybersecurity exercise hosted at Argonne National Laboratory, collaborating with peers to simulate real-world attack and defense scenarios.
 
       - layout: left
         title: Indiana University
         caption: 2013 - 2016
         sub_title: Bachelor of Science in Computer Science
-        # description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
+          Completed a comprehensive computer science curriculum with a focus on artificial intelligence, operating systems, and embedded programming. Developed a strong foundation in algorithms, software engineering, and systems design, while exploring advanced topics such as machine learning, real-time systems, and low-level device interfacing. Gained practical experience through coursework and projects that emphasized both theoretical understanding and hands-on implementation.
 
   - title: A Little More About Me
     layout: text
